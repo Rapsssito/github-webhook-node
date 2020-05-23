@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "noEmit": true,
+        "allowJs": true,
+        "checkJs": true,
+        "moduleResolution": "node",
+        "resolveJsonModule": true,
+        "strict": true,
+        "skipLibCheck": true,
+        "jsx": "react",
+        "target": "es6",
+        "allowSyntheticDefaultImports": true,
+        "baseUrl": "./",
+    },
+    "exclude": ["node_modules", "coverage", "patches", "uploads"],
+}
